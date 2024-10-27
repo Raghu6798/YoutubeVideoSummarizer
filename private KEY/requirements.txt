@@ -1,0 +1,8 @@
+streamlit 
+langchain
+transformers
+youtube-transcript-api
+spacy
+tqdm
+pydantic
+python-dotenv
